@@ -5,7 +5,8 @@
 
 ## Aim: To study and implement C++ decision making statements
 
-## Theory:Bitwise shift operators in C++ are powerful tools for manipulating data at the binary level. They allow you to shift the bits of an integer either to the left or right, which is often used for efficient arithmetic operations and low-level programming.
+## Theory:
+Bitwise shift operators in C++ are powerful tools for manipulating data at the binary level. They allow you to shift the bits of an integer either to the left or right, which is often used for efficient arithmetic operations and low-level programming.
 
 ### Bitwise Shift Operators in C++
 
@@ -57,7 +58,8 @@
 
 - End
 
- ##Conclusion: Bitwise Shift Operators in C++
+ ## Conclusion: 
+   Bitwise Shift Operators in C++
  
    Bitwise shift operators—<< for left shift and >> for right shift—are essential tools for optimizing performance and performing arithmetic operations more efficiently in C++. By directly      
    manipulating binary data, these operators enable low-level control of values, which is particularly useful in areas like embedded systems, graphics processing, and cryptographic              
